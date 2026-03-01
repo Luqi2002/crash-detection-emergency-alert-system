@@ -1,3 +1,14 @@
+![Embedded](https://img.shields.io/badge/Subject-Embedded%20System-blue)
+![University](https://img.shields.io/badge/University-UniMAP-red)
+![Language](https://img.shields.io/badge/Language-CircuitPython-green)
+
+## ⚠️ IMPORTANT NOTICE
+
+> 🚨 This system involves hardware integration.  
+> Please read this documentation carefully before powering the device.
+
+---
+
 # 🏍 Crash Detection & Emergency Alert System for Riders
 
 ## 📌 Academic Background
