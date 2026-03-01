@@ -176,4 +176,5 @@ pyRTOS.add_task(pyRTOS.Task(telegram_task, name="Telegram", priority=1))
 pyRTOS.add_task(pyRTOS.Task(crash_task, name="Crash", priority=2))
 pyRTOS.add_task(pyRTOS.Task(light_task, name="Light", priority=3))
 pyRTOS.add_task(pyRTOS.Task(gps_task, name="GPS", priority=4))
+
 pyRTOS.start()
