@@ -97,26 +97,19 @@ This project allowed the application of multiple embedded engineering principles
 
 ## 🔄 Flowchart
 
-![Flowchart](Flowchart.png)
-
 ---
 
 ## 🧠 System Architecture
 
-![Block Diagram](diagram schematic.jpg)
+![Block Diagram]
 
 ---
 
 ## 📸 Prototype
 
-![Prototype](Prototype.jpg)
-
 ---
 
 ## 🎥 Demo Video
-
-See system demonstration here:  
-(Insert your YouTube link here)
 
 ---
 
