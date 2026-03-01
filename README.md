@@ -134,7 +134,7 @@ Through this project, the following skills were developed:
 
 Developed by: 
 - Muhammad Luqman Hakim (@LuqiHakeem)
-- Muhammad Iqbal(@ )
+- Muhammad Iqbal(@iqbalizan )
 
 Embedded Systems Mini Project  
 Engineering Student
