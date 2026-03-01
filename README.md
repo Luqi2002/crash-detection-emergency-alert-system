@@ -95,31 +95,6 @@ This project allowed the application of multiple embedded engineering principles
 
 ---
 
-## 🔄 Flowchart
-
----
-
-## 🧠 System Architecture
-
-![Block Diagram]
-
----
-
-## 📸 Prototype
-
----
-
-## 🎥 Demo Video
-
----
-
-## 📄 Project Report
-
-Full documentation available here:  
-[Download Mini Project Report](MINI PROJECT REPORT (1).pdf)
-
----
-
 ## 🔬 Technical Highlights
 
 - Real-time impact detection algorithm
